@@ -49,7 +49,8 @@ public class VeriBankasi {
                 vitesler.add(arb.getVites());
             }
         }
-        System.out.println(vitesler);
+        System.out.println(vitesler); //fsfsfsdfsffgsffsfsfsfsdffsfsfsfs
+
     }
 
 }
