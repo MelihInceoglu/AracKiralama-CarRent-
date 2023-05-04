@@ -17,7 +17,7 @@ public class Methods extends VeriBankasi{
         }else if(islem == 3){
             System.out.println("Yine bekleriz");
             System.exit(0);
-        }else girisEkrani();
+        }else girisEkrani(); // nott sajslkhjvjkdl jhvdksj
 
     }
     public static void yeniMusteriKaydi(){
